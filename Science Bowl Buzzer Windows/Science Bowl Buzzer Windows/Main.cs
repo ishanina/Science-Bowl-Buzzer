@@ -155,5 +155,45 @@ namespace Science_Bowl_Buzzer_Windows
                     break;
             }
         }
+
+        private void Team_1_Add_4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Team_1_Score.Text = Convert.ToString(Convert.ToInt64(Team_1_Score.Text) + 4);
+            }
+            catch (Exception)
+            { }
+        }
+
+        private void Team_1_Add_10_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Team_1_Score.Text = Convert.ToString(Convert.ToInt64(Team_1_Score.Text) + 10);
+            }
+            catch (Exception)
+            { }
+        }
+
+        private void Team_2_Add_4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Team_2_Score.Text = Convert.ToString(Convert.ToInt64(Team_2_Score.Text) + 4);
+            }
+            catch (Exception)
+            { }
+        }
+
+        private void Team_2_Add_10_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Team_2_Score.Text = Convert.ToString(Convert.ToInt64(Team_2_Score.Text) + 10);
+            }
+            catch (Exception)
+            { }
+        }
     }
 }

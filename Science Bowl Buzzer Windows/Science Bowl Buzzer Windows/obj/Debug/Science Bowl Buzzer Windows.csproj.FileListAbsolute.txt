@@ -10,3 +10,7 @@ C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Win
 C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Debug\Science_Bowl_Buzzer_Windows.Choose_Key.resources
 C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Debug\Science Bowl Buzzer Windows.exe.CodeAnalysisLog.xml
 C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Debug\Science Bowl Buzzer Windows.exe.lastcodeanalysissucceeded
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Debug\Science Bowl Buzzer Windows.exe.manifest
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Debug\Science Bowl Buzzer Windows.application
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Debug\Science Bowl Buzzer Windows.exe.manifest
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Debug\Science Bowl Buzzer Windows.application
