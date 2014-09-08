@@ -97,7 +97,7 @@ namespace Science_Bowl_Buzzer_Windows
                     Reset_Buzzers_Click(sender, e);
             else for (int i = 1; i < 13; i++)
             {
-                if (e.KeyCode == People_Keys[i])
+                if (e.KeyCode == People_Keys[i] && Buzz_Person.BackColor == Color.White)
                 {
                     Buzz_Person.BackColor = Color.LightGreen;
                     Set_Buzzer(i);

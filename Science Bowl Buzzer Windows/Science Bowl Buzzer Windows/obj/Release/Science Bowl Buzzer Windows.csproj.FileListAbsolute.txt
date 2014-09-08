@@ -1,0 +1,13 @@
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Release\Science Bowl Buzzer Windows.exe.config
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Release\Science Bowl Buzzer Windows.exe
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Release\Science Bowl Buzzer Windows.pdb
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science_Bowl_Buzzer_Windows.Choose_Key.resources
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science_Bowl_Buzzer_Windows.Main.resources
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science_Bowl_Buzzer_Windows.Properties.Resources.resources
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science Bowl Buzzer Windows.csproj.GenerateResource.Cache
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science Bowl Buzzer Windows.exe
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science Bowl Buzzer Windows.pdb
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Release\Science Bowl Buzzer Windows.exe.manifest
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\bin\Release\Science Bowl Buzzer Windows.application
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science Bowl Buzzer Windows.exe.manifest
+C:\Sites\Science-Bowl-Buzzer\Science Bowl Buzzer Windows\Science Bowl Buzzer Windows\obj\Release\Science Bowl Buzzer Windows.application

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.Player_Names_Layout = new System.Windows.Forms.FlowLayoutPanel();
             this.Player_1_Name = new System.Windows.Forms.TextBox();
             this.Player_1_Key = new System.Windows.Forms.Button();
@@ -508,6 +509,7 @@
             this.ClientSize = new System.Drawing.Size(699, 391);
             this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.Player_Names_Layout);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.Name = "Main";
             this.Text = "Science Bowl Buzzer";

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Science Bowl Buzzer Windows.exe" version="1.0.0.0" publicKeyToken="5ffc1c02e5ff1329" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Science Bowl.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Science Bowl Buzzer Windows" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Science Bowl Buzzer Windows.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Science Bowl Buzzer Windows.exe" size="111616">
+      <assemblyIdentity name="Science Bowl Buzzer Windows" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YFW1Zw0RdIkIqct2JWoaSkz703JOE+SXbOQ6rUX2JEQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Science Bowl Buzzer Windows.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Science Bowl.ico" size="32988">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3gzHTeOdAc5d7M/q8Z1+jC4HnOqv7TDeWN9Bgzs8mLA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ISHAN_VAIO\Ishan" issuerKeyHash="e8c4ca49b17666f41a367763371269992a99f4bc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CbMkbix4e0FMXT/9FU0EGjUqZrDzfQfp9fFUy3SRIKw=</DigestValue></Reference></SignedInfo><SignatureValue>dvIb56tHek46PBPOkjx0+nv2BUxeoMj1hRZVGKiMFzpqsFnJsIqOu5Y7hkJWKjyxHD0rmSh2RtrtybElqNrzAUVr0JcBm76Va7qdSqt+LEecfaH97W9h9VUdXzpN9fIPFirSlxAA5QnOBvVcy9L1MxtF+jwk1+PTWn9e6/tDoxI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vJB4EP9RP82b0Nf6r6bQBNHxwnaavoglgsq8inHAAxKIoqmapeHBvLZKS8TONo7guUY+J9nJPl8xvwb5pxpTEIkzPOFIQcaegesK/VvuXorirlPQGWos91GIFb4kLXjfD6nBumIepDWOekXL+GV8qZ4hzaB/y+dVv2Y2LnKmiI8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ac209174cb54f1f5e9077df3b0662a351a044d15fd3f5d4c417b782c6e24b309" Description="" Url=""><as:assemblyIdentity name="Science Bowl Buzzer Windows.exe" version="1.0.0.0" publicKeyToken="5ffc1c02e5ff1329" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ISHAN_VAIO\Ishan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KB6NWlXQCpBRajaKCjEvd7i84VGfFN1XtMk1wBX85Nc=</DigestValue></Reference></SignedInfo><SignatureValue>ZKkS9+cpNHxoBSWUnG42lQ6NmtCv41Hs1szTKN9z0Jh2FMWE4R07iNXZNGxKSOUT4VFnKRaCyF092+CdQhWOupzQdLsUZPbpWouFbTWFXnQ/w1tm7DkiGWYR39YgWnaCDUTPsD1dzzWmaCsaEPmn3AXFRJPRQ/GyW2gmsohnyBA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vJB4EP9RP82b0Nf6r6bQBNHxwnaavoglgsq8inHAAxKIoqmapeHBvLZKS8TONo7guUY+J9nJPl8xvwb5pxpTEIkzPOFIQcaegesK/VvuXorirlPQGWos91GIFb4kLXjfD6nBumIepDWOekXL+GV8qZ4hzaB/y+dVv2Y2LnKmiI8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQWf53jBAlt4VA0WY9AsYmczANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAASQBTAEgAQQBOAF8AVgBBAEkATwBcAEkAcwBoAGEAbjAeFw0xNDA5MDcwMzMyMDVaFw0xNTA5MDcwOTMyMDVaMCsxKTAnBgNVBAMeIABJAFMASABBAE4AXwBWAEEASQBPAFwASQBzAGgAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8kHgQ/1E/zZvQ1/qvptAE0fHCdpq+iCWCyryKccADEoiiqZql4cG8tkpLxM42juC5Rj4n2ck+XzG/BvmnGlMQiTM84UhBxp6B6wr9W+5eiuKuU9AZaiz3UYgVviQteN8PqcG6Yh6kNY56Rcv4ZXypniHNoH/L51W/ZjYucqaIjwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJebWzBjRaBo0+jNiXo05wwfjDDw2s/7VbIW2zZ0FAmvtNJDCtXLXk77Yf4AvLDHtOU6i8MISJ+sc3ctVH46FrdMIg6dh/tgHL791wz86H2FCNQqHjzR8UHy9ide6fATfkUXpjuzgksSswao31YDoblfS5Q1MLHH+OKvRZydhy2p</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
